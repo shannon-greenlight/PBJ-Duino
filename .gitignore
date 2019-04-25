@@ -54,3 +54,5 @@ _notes
 *.fpc
 *.dsn
 *.autosave
+
+CAM/*
