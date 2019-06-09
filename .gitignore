@@ -55,4 +55,7 @@ _notes
 *.dsn
 *.autosave
 
+*.net
+*.csv
+
 CAM/*
